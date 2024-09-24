@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       ),
         home: const Material(
         child: Center(
-          child: Text("Hello"),
+          child: Text("Hello World"),
             ),
       )
 
